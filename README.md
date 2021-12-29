@@ -1,2 +1,1 @@
-# tindog
-A friendly beginner website
+TinDog Starting Files
